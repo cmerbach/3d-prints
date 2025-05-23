@@ -33,3 +33,11 @@ Verschiedene OpenSCAD und diverse andere Modelle für den 3D-Druck.
   <img src="pic/arduino_case-v2.png" width="150" alt="Arduino Case Ver. 2"></a>
 <a href="models/arduino_case/arduino_case-v3.scad">
   <img src="pic/arduino_case-v3.png" width="150" alt="Arduino Case Ver. 3"></a>
+
+
+---
+- **Support** </br>
+<a href="models/support.scad">
+  <img src="pic/support-scad.png" width="150" alt="Support Code"></a>
+<a href="pic/support-m3f.png">
+  <img src="pic/support-m3f.png" width="150" alt="Support Picture"></a>
