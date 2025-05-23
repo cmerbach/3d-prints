@@ -41,3 +41,9 @@ Verschiedene OpenSCAD und diverse andere Modelle für den 3D-Druck.
   <img src="pic/support-scad.png" width="150" alt="Support Code"></a>
 <a href="pic/support-m3f.png">
   <img src="pic/support-m3f.png" width="150" alt="Support Picture"></a>
+
+
+---
+- **Festplatten Käfig** </br>
+<a href="models/festplatten_case/main.scad">
+  <img src="pic/festplatten_case.png" width="150" alt="Festplatten Käfig"></a>
