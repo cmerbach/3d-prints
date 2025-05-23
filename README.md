@@ -50,6 +50,7 @@ Verschiedene OpenSCAD und diverse andere Modelle für den 3D-Druck.
 
 
 ---
-- **[Aditional Screen](models/dockingstation_screen.scad) for [Amazon Product](https://www.amazon.de/dp/B0D9JW1TBL)**
-- **Halterung - WIP**
+- **[Aditional Screen](models/dockingstation_screen.scad) for [Amazon Product](https://www.amazon.de/dp/B0D9JW1TBL)** </br>
+- **Halterung - WIP** </br>
   - [Amazon](https://www.amazon.de/dp/B0CC5FZCD9)
+- **Pringels Support - WIP** </br>
