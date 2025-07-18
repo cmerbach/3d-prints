@@ -38,15 +38,27 @@ Verschiedene OpenSCAD und diverse andere Modelle für den 3D-Druck.
 ---
 - **Support** </br>
 <a href="models/support.scad">
-  <img src="pic/support-scad.png" width="150" alt="Support Code"></a>
+  <img src="pic/support-scad.png" height="150" alt="Support Code"></a>
 <a href="pic/support-m3f.png">
-  <img src="pic/support-m3f.png" width="150" alt="Support Picture"></a>
+  <img src="pic/support-m3f.png" height="150" alt="Support Picture"></a>
 
 
 ---
 - **Festplatten Käfig** </br>
 <a href="models/festplatten_case/main.scad">
   <img src="pic/festplatten_case.png" width="150" alt="Festplatten Käfig"></a>
+
+
+---
+- **Filament holder for Bambulab A1** </br>
+<a href="pic/bambu-cross-bracket-final.png">
+  <img src="pic/bambu-cross-bracket-final.png" height="150" alt="Final view"></a>
+<a href="models/bambu-cross-bracket/holder.scad">
+  <img src="pic/bambu-cross-bracket-holder.png" height="150" alt="Clamp with holder"></a>
+<a href="models/bambu-cross-bracket/pole.scad">
+  <img src="pic/bambu-cross-bracket-pole.png" height="150" alt="Pole with two holders"></a>
+<a href="models/bambu-cross-bracket/bar.scad">
+  <img src="pic/bambu-cross-bracket-bar.png" height="150" alt="Bar for filament"></a>
 
 
 ---
