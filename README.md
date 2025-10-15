@@ -62,6 +62,19 @@ Verschiedene OpenSCAD und diverse andere Modelle für den 3D-Druck.
 
 
 ---
+- **Concept DIY Electric Skateboard Conversion Kit** </br>
+<a href="https://www.amazon.de/gp/product/B0CGHQV396">
+    <img src="https://m.media-amazon.com/images/I/41Ed2SqNa+L._AC_SX679_.jpg" height="150" alt="90-Grad-Kegelrad-Getriebe"></a>
+</br>
+<a href="models/skateboard/welle-fake-simple.scad">
+    <img src="pic/welle-fake-simple.png" height="150" alt="Simple Fake Welle"></a>
+<a href="models/skateboard/welle-fake.scad">
+    <img src="pic/welle-fake.png" height="150" alt="Fake Welle mit Streben"></a>
+<a href="models/skateboard/shaft-holder.scad">
+    <img src="pic/shaft-holder.png" height="150" alt="Getriebe Halterung"></a>
+
+
+---
 - **[Aditional Screen](models/dockingstation_screen.scad) for [Amazon Product](https://www.amazon.de/dp/B0D9JW1TBL)** </br>
 - **Halterung - WIP** </br>
   - [Amazon](https://www.amazon.de/dp/B0CC5FZCD9)
