@@ -4,6 +4,19 @@ Verschiedene OpenSCAD und diverse andere Modelle für den 3D-Druck.
 
 ## Modelle
 
+
+---
+- **Arduino Case** </br>
+<a href="3mf/bmcu/bmcu-370c-module.3mf">
+  <img src="pic/bmcu-370c-module.png" width="150" alt="4x Modules of BMCU"></a>
+<a href="3mf/bmcu/bmcu-370c-base.3mf">
+  <img src="pic/bmcu-370c-base.png" width="150" alt="BMCU Base for the Modules"></a>
+<a href="3mf/bmcu/bmcu-370c-halterung.3mf">
+  <img src="pic/bmcu-370c-halterung.png" width="150" alt="Bambu A1 Holder for BMCU"></a>
+<a href="3mf/bmcu/bmcu-filament hub protector.3mf">
+  <img src="pic/bmcu-filament hub protector.png" width="150" alt="Filament Hub Protector for Bambu A1"></a>
+
+
 ---
 - **BambuLab Basket** </br>
 <a href="pic/bambu-basket.png">
