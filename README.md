@@ -6,7 +6,7 @@ Verschiedene OpenSCAD und diverse andere Modelle für den 3D-Druck.
 
 
 ---
-- **Arduino Case** </br>
+- **BMCU** </br>
 <a href="3mf/bmcu/bmcu-370c-module.3mf">
   <img src="pic/bmcu-370c-module.png" width="150" alt="4x Modules of BMCU"></a>
 <a href="3mf/bmcu/bmcu-370c-base.3mf">
@@ -64,15 +64,26 @@ Verschiedene OpenSCAD und diverse andere Modelle für den 3D-Druck.
 
 ---
 - **Filament holder for Bambulab A1** </br>
-<a href="pic/bambu-cross-bracket-final.png">
-  <img src="pic/bambu-cross-bracket-final.png" height="150" alt="Final view"></a>
-<a href="models/bambu-cross-bracket/holder.scad">
-  <img src="pic/bambu-cross-bracket-holder.png" height="150" alt="Clamp with holder"></a>
-<a href="models/bambu-cross-bracket/pole.scad">
-  <img src="pic/bambu-cross-bracket-pole.png" height="150" alt="Pole with two holders"></a>
-<a href="models/bambu-cross-bracket/bar.scad">
-  <img src="pic/bambu-cross-bracket-bar.png" height="150" alt="Bar for filament"></a>
 
+  - **Version-1** </br>
+<a href="pic/bambu-cross-bracket-final-v1.png">
+  <img src="pic/bambu-cross-bracket-final-v1.png" height="150" alt="Final view"></a>
+<a href="models/bambu-cross-bracket/holder-v1.scad">
+  <img src="pic/bambu-cross-bracket-holder-v1.png" height="150" alt="Clamp with holder"></a>
+<a href="models/bambu-cross-bracket/pole.scad">
+  <img src="pic/bambu-cross-bracket-pole-v1.png" height="150" alt="Pole with two holders"></a>
+<a href="models/bambu-cross-bracket/bar-v1.scad">
+  <img src="pic/bambu-cross-bracket-bar-v1.png" height="150" alt="Bar for filament"></a>
+
+  - **Version-2** </br>
+<a href="models/bambu-cross-bracket/holder-v2.scad">
+  <img src="pic/bambu-cross-bracket-holder-v2.png" height="150" alt="Clamp with holder"></a>
+<a href="models/bambu-cross-bracket/pole-v2.scad">
+  <img src="pic/bambu-cross-bracket-pole-v2.png" height="150" alt="Pole with two holders"></a>
+<a href="models/bambu-cross-bracket/bar-v2.scad">
+  <img src="pic/bambu-cross-bracket-bar-v2.png" height="150" alt="Bar for filament"></a>
+<a href="models/bambu-cross-bracket/bar-end-v2.scad">
+  <img src="pic/bambu-cross-bracket-bar-end-v2.png" height="150" alt="End cap for bar"></a>
 
 ---
 - **Concept DIY Electric Skateboard Conversion Kit** </br>
