@@ -107,6 +107,15 @@ Verschiedene OpenSCAD und diverse andere Modelle für den 3D-Druck.
 <a href="ppic/schatulle-3.png">
   <img src="pic/schatulle-3.png" height="150" alt="Geweih"></a>
 
+
+---
+- **Wasserkannee** </br>
+<a href="3mf/watercan-mono.3mf.3mf">
+  <img src="pic/watercan-mono.png" height="150" alt="Wasserkanne Mono"></a>
+<a href="3mf/watercan-duo.3mf">
+  <img src="pic/watercan-duo.png" height="150" alt="Wasserkanne Duo"></a>
+
+
 ---
 - **[Aditional Screen](models/dockingstation_screen.scad) for [Amazon Product](https://www.amazon.de/dp/B0D9JW1TBL)** </br>
 - **Halterung - WIP** </br>
