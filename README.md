@@ -99,6 +99,15 @@ Verschiedene OpenSCAD und diverse andere Modelle für den 3D-Druck.
 
 
 ---
+- **Schmuck-Schatulle** </br>
+<a href="3mf/schatulle.3mf">
+  <img src="pic/schatulle-1.png" height="150" alt="Schatullen Rundbox"></a>
+<a href="pic/schatulle-2.png">
+  <img src="pic/schatulle-2.png" height="150" alt="Hirsch Aufsatz"></a>
+<a href="ppic/schatulle-3.png">
+  <img src="pic/schatulle-3.png" height="150" alt="Geweih"></a>
+
+---
 - **[Aditional Screen](models/dockingstation_screen.scad) for [Amazon Product](https://www.amazon.de/dp/B0D9JW1TBL)** </br>
 - **Halterung - WIP** </br>
   - [Amazon](https://www.amazon.de/dp/B0CC5FZCD9)
