@@ -109,11 +109,17 @@ Verschiedene OpenSCAD und diverse andere Modelle für den 3D-Druck.
 
 
 ---
-- **Wasserkannee** </br>
-<a href="3mf/watercan-mono.3mf.3mf">
+- **Wasserkanne** </br>
+<a href="3mf/watercan-mono.3mf">
   <img src="pic/watercan-mono.png" height="150" alt="Wasserkanne Mono"></a>
 <a href="3mf/watercan-duo.3mf">
   <img src="pic/watercan-duo.png" height="150" alt="Wasserkanne Duo"></a>
+
+
+---
+- **Other** </br>
+<a href="3mf/holder.3mf">
+  <img src="pic/holder.png" height="150" alt="Geschenkpapierhalter"></a>
 
 
 ---
